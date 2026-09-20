@@ -1,0 +1,415 @@
+{
+  "business": {
+    "id": "biz-1",
+    "name": "Jawed Habib",
+    "tagline": "Pampore's Premier Men's Salon & Grooming Sanctuary",
+    "description": "Pampore's premier men’s salon and traditional grooming sanctuary. Rooted in Kashmiri craftsmanship and walnut-wood calmness, we blend authentic Turkish-Kashmiri razor craft with modern precision styling.",
+    "address": "Kadlabal Pampore Near JK Bank, Pampore, Jammu & Kashmir 192121",
+    "phone": "+91 9622229622",
+    "whatsapp": "+91 9622229622",
+    "hours": "Monday – Sunday: 9:30 AM – 8:30 PM",
+    "map_url": "https://maps.google.com/?q=Kadlabal+Pampore+Jammu+and+Kashmir",
+    "region_badge": "Pampore · Kashmir",
+    "location_badge": "Frestabal, Pampore",
+    "logo_text": "J",
+    "logo_url": "",
+    "favicon_url": "",
+    "hero_headline": "Traditional Craftsmanship, Modern Precision",
+    "hero_description": "Experience the timeless ritual of royal Kashmiri hot towel shaves, bespoke scissor architecture, and revitalizing walnut oil scalp therapies along the serene saffron fields of Pampore.",
+    "hero_caption": "Frestabal, Pampore · Open until 8:30 PM",
+    "hero_image_url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1000&q=80",
+    "visit_image_url": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1000&q=80",
+    "announcement_bar": "",
+    "friday_break": "Friday Jummah break 12:30 PM - 2:30 PM",
+    "developer_name": "Developed by Shujaat",
+    "developer_whatsapp": "9622229622",
+    "services_title": "Signature Grooming & Services",
+    "services_subtitle": "Every appointment begins with warm consultation and ends with tailored styling. All treatments are performed using premium Kashmiri herbal botanicals.",
+    "barbers_title": "Meet Pampore’s Dedicated Barbers",
+    "barbers_subtitle": "Honoring generations of Kashmiri grooming heritage. Each master barber brings specialized scissors precision, razor craftsmanship, and relaxed hospitality.",
+    "styles_title": "Popular Haircut Styles & Scissor Work",
+    "styles_subtitle": "From classic gentlemen’s contours to crisp skin fades and traditional Kashmiri beard sculpts. Pick your signature aesthetic.",
+    "booking_title": "Book Your Grooming Chair",
+    "booking_subtitle": "Select your preferred master barber, signature service, date and time for instant confirmed booking.",
+    "queue_title": "Track Your Appointment & Queue",
+    "queue_subtitle": "Real-time queue tracking for walk-in and booked appointments in Pampore lounge.",
+    "visit_title": "Visit Us in Pampore",
+    "visit_subtitle": "Situated in Kadlabal near Saffron Town. Easy parking and serene Kashmiri hospitality await you."
+  },
+  "barbers": [
+    {
+      "id": "barber-1",
+      "name": "Ustad Tariq Mir",
+      "specialty": "Master Razor Craftsman & Traditional Beard Sculptor",
+      "bio": "Over 14 years perfecting authentic hot-towel straight-razor cuts, royal Kashmiri shaves, and contoured beard designs in Pampore.",
+      "image_url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=700&q=80",
+      "active": true,
+      "created_at": "2026-01-10T10:00:00Z"
+    },
+    {
+      "id": "barber-2",
+      "name": "Zubair Wani",
+      "specialty": "Creative Director & Precision Fade Specialist",
+      "bio": "Trained in contemporary London & Delhi hair architecture; renowned for seamless skin fades, textured crops, and scissor tapers.",
+      "image_url": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=700&q=80",
+      "active": true,
+      "created_at": "2026-01-12T10:00:00Z"
+    },
+    {
+      "id": "barber-3",
+      "name": "Bilal Khan",
+      "specialty": "Saffron Spa & Scalp Revitalization Specialist",
+      "bio": "Expert in soothing acupressure head massages using cold-pressed Kashmiri walnut oil and organic saffron steam infusions.",
+      "image_url": "https://images.unsplash.com/photo-1517832606589-7629c3395909?auto=format&fit=crop&w=700&q=80",
+      "active": true,
+      "created_at": "2026-02-01T10:00:00Z"
+    },
+    {
+      "id": "barber-4",
+      "name": "Farooq Rather",
+      "specialty": "Executive Haircut & Modern Classic Stylist",
+      "bio": "Specialist in boardroom-ready low tapers, natural scissor parting, and precision hairline restorations for gentlemen of taste.",
+      "image_url": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=700&q=80",
+      "active": true,
+      "created_at": "2026-02-15T10:00:00Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "name": "Royal Kashmiri Hot Towel Shave",
+      "description": "Handcrafted hot towels infused with lavender and clove, pre-shave almond balm, straight razor shave, and saffron-witch hazel splash.",
+      "price_inr": 350,
+      "duration_min": 30,
+      "image_url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "srv-2",
+      "name": "Signature Executive Haircut",
+      "description": "Precision scissor and clipper consultation, bespoke taper or side-contour, clarifying wash, and matte styling balm finish.",
+      "price_inr": 450,
+      "duration_min": 40,
+      "image_url": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "srv-3",
+      "name": "Precision Fade & Texture Cut",
+      "description": "Seamless low/mid skin fade, foil shaver detailing, crown texturing, and cold towel hairline refresh.",
+      "price_inr": 500,
+      "duration_min": 45,
+      "image_url": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "srv-4",
+      "name": "Artisan Beard Sculpting & Razor Edge",
+      "description": "Custom volumetric trimming, razor cheek and neck contouring, tea-tree hot compress, and argan beard butter nourishment.",
+      "price_inr": 250,
+      "duration_min": 25,
+      "image_url": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "srv-5",
+      "name": "Kashmiri Walnut Oil Scalp Spa",
+      "description": "Traditional deep pressure scalp & neck therapy using warm cold-pressed walnut oil, warm herbal steam, and anti-stress acupressure.",
+      "price_inr": 600,
+      "duration_min": 35,
+      "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "srv-6",
+      "name": "The Dal Royal Complete Grooming Package",
+      "description": "The ultimate gentleman ritual: Signature Haircut, Royal Shave or Beard Sculpting, Walnut Scalp Spa, and refreshing herbal facial cleanse.",
+      "price_inr": 1250,
+      "duration_min": 80,
+      "image_url": "https://images.unsplash.com/photo-1512690459411-b9245aed614b?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "created_at": "2026-01-01T10:00:00Z"
+    }
+  ],
+  "styles": [
+    {
+      "id": "style-1",
+      "name": "Pampore Textured Crop",
+      "image_url": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    },
+    {
+      "id": "style-2",
+      "name": "Low Taper & Crisp Lineup",
+      "image_url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    },
+    {
+      "id": "style-3",
+      "name": "Executive Side Parting",
+      "image_url": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    },
+    {
+      "id": "style-4",
+      "name": "Kashmiri Chinar Full Beard Contour",
+      "image_url": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    },
+    {
+      "id": "style-5",
+      "name": "Modern Flow & Scissor Finish",
+      "image_url": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    },
+    {
+      "id": "style-6",
+      "name": "Mid Skin Fade with Volume Pompadour",
+      "image_url": "https://images.unsplash.com/photo-1517832606589-7629c3395909?auto=format&fit=crop&w=600&q=80",
+      "created_at": "2026-01-05T10:00:00Z"
+    }
+  ],
+  "bookings": [],
+  "schedules": [
+    {
+      "id": "sched-barber-1-0",
+      "barber_id": "barber-1",
+      "day_of_week": 0,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-1",
+      "barber_id": "barber-1",
+      "day_of_week": 1,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-2",
+      "barber_id": "barber-1",
+      "day_of_week": 2,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-3",
+      "barber_id": "barber-1",
+      "day_of_week": 3,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-4",
+      "barber_id": "barber-1",
+      "day_of_week": 4,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-5",
+      "barber_id": "barber-1",
+      "day_of_week": 5,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-1-6",
+      "barber_id": "barber-1",
+      "day_of_week": 6,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-0",
+      "barber_id": "barber-2",
+      "day_of_week": 0,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-1",
+      "barber_id": "barber-2",
+      "day_of_week": 1,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-2",
+      "barber_id": "barber-2",
+      "day_of_week": 2,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-3",
+      "barber_id": "barber-2",
+      "day_of_week": 3,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-4",
+      "barber_id": "barber-2",
+      "day_of_week": 4,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-5",
+      "barber_id": "barber-2",
+      "day_of_week": 5,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-2-6",
+      "barber_id": "barber-2",
+      "day_of_week": 6,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-0",
+      "barber_id": "barber-3",
+      "day_of_week": 0,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-1",
+      "barber_id": "barber-3",
+      "day_of_week": 1,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-2",
+      "barber_id": "barber-3",
+      "day_of_week": 2,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-3",
+      "barber_id": "barber-3",
+      "day_of_week": 3,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-4",
+      "barber_id": "barber-3",
+      "day_of_week": 4,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-5",
+      "barber_id": "barber-3",
+      "day_of_week": 5,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-3-6",
+      "barber_id": "barber-3",
+      "day_of_week": 6,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-0",
+      "barber_id": "barber-4",
+      "day_of_week": 0,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-1",
+      "barber_id": "barber-4",
+      "day_of_week": 1,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-2",
+      "barber_id": "barber-4",
+      "day_of_week": 2,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-3",
+      "barber_id": "barber-4",
+      "day_of_week": 3,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-4",
+      "barber_id": "barber-4",
+      "day_of_week": 4,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-5",
+      "barber_id": "barber-4",
+      "day_of_week": 5,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    },
+    {
+      "id": "sched-barber-4-6",
+      "barber_id": "barber-4",
+      "day_of_week": 6,
+      "start_time": "09:30",
+      "end_time": "20:30",
+      "active": true
+    }
+  ],
+  "manager": {
+    "username": "manager",
+    "passwordHash": "4bab6d1b30f452932575e597342856049652e55a676f80947c421adc55face24",
+    "token": "db67df6c15013d5bf839a2ea942321885f72f240f13bcbffe95ccd36eb24c5df",
+    "tokenExpires": 1790261493736,
+    "tokens": {
+      "2e630c623a7f1d97545c08ea7315fceab05924ac396d7961ee12d339a7b07116": 1790261469825,
+      "db67df6c15013d5bf839a2ea942321885f72f240f13bcbffe95ccd36eb24c5df": 1790261493736,
+      "dev-authenticated-342b89b3572f471afbb084e60233a14726645181946efed2": 1792472196714
+    }
+  }
+}

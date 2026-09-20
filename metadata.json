@@ -1,0 +1,8 @@
+{
+  "name": "Jawed Habib - Pampore, Kashmir",
+  "description": "Premium Jawed Habib salon and traditional grooming sanctuary in Pampore, Jammu & Kashmir with live queue management and instant appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
