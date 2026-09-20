@@ -16,26 +16,5 @@
   <body class="bg-[#FAF8F5] text-[#1C241E] antialiased selection:bg-[#2D4A3E] selection:text-white">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
-    <script>
-      // Fallback for static hosts (like GitHub Pages served from root without a build step)
-      setTimeout(function() {
-        var root = document.getElementById('root');
-        if (!root || root.children.length === 0) {
-          if (!document.querySelector('link[href*="assets/index-"]')) {
-            var l = document.createElement('link');
-            l.rel = 'stylesheet';
-            l.href = './assets/index-BYq87sX7.css';
-            document.head.appendChild(l);
-          }
-          if (!document.querySelector('script[src*="assets/index-"]')) {
-            var s = document.createElement('script');
-            s.type = 'module';
-            s.src = './assets/index-C41hvNq-.js';
-            document.body.appendChild(s);
-          }
-        }
-      }, 350);
-    </script>
   </body>
 </html>
-
